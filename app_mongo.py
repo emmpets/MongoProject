@@ -222,7 +222,7 @@ while ans:
     elif ans == "8":
         print"The average number of hashtags (#) used within a message is:", eight_querry(data)
     elif ans == "9":
-        print"The average number of hashtags (#) used within a message is:", ninth_querry()
+        ninth_querry()
     elif ans == "10":
         print("\n Goodbye")
         ans = None
